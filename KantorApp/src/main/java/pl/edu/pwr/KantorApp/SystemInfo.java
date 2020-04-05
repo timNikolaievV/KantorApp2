@@ -1,5 +1,6 @@
 package pl.edu.pwr.KantorApp;
 
+
 public class SystemInfo {
 
     public static String javaVersion() {
