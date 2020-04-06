@@ -47,7 +47,7 @@ public class App extends Application {
 		strings.setPadding(new Insets(10, 30, 10, 30));
 		strings.setSpacing(20);
 
-		strings.getChildren().add(new Text("Select the user"));
+		strings.getChildren().add(new Text("Select the currency"));
 		strings.getChildren().add(buttonBox);
 		
 		buttonBox.setSpacing(10);

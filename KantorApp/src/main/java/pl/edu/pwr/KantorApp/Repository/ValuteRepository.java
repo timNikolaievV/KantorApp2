@@ -12,6 +12,7 @@ public class ValuteRepository {
 		valutes.add(new Valute("USD", "USAdollar"));
 		valutes.add(new Valute("UAH", "Hryvnia"));
 		valutes.add(new Valute("PLN", "Zloty"));
+		valutes.add(new Valute("KRN", "Krony"));
 
 	}
 
